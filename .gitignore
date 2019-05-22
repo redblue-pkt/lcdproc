@@ -254,3 +254,6 @@ tags
 
 *.patch
 *.diff
+
+git-*
+go_*
